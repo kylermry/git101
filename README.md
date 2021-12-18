@@ -10,4 +10,4 @@ git commit -m ""
 git push 
 ```
 
-If you want to pull this github change do
+If you want to pull this github change do.
